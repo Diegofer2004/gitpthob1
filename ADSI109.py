@@ -1,7 +1,7 @@
 from tkinter import *
 
 root = Tk()
-root.title('MONDONGO')
+root.title('MONDONGO.panqueso')
 root.geometry('600x400')
 root.config( bg='blue',cursor='umbrella')
 
